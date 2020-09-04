@@ -2,6 +2,7 @@
 'RCET 0265
 'Fall 2020
 'BetterCalculator
+'https://github.com/IanGunter/BetterCalculator.git
 
 
 
